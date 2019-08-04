@@ -48,7 +48,6 @@ cat << "banner"
          INFO GEMPA TERKINI 
     Mod By      : Dry_Ica_Tuan-Ar
     Contact Me  : arfiyan15888@gmail.com
-    Youtube     : Gebang Kiidiw
     Instagram   : @pangeran_tanpa_dosa
     Thanks to   : IND CYBER ARMY
 
